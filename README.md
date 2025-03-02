@@ -1,4 +1,4 @@
-# azur
+# AZURE
 
 A new Flutter project.
 
